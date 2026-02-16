@@ -46,7 +46,7 @@ export function Sidebar() {
       <div className="h-16 flex items-center justify-between px-4 border-b border-gray-800">
         {!isCollapsed && (
           <div>
-            <h1 className="text-xl font-bold text-white">Yami Betting</h1>
+            <h1 className="text-xl font-bold text-white">PKBETPRO</h1>
             <p className="text-xs text-gray-400">Professional Hub</p>
           </div>
         )}

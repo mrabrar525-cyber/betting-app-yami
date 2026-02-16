@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Yami Betting - Professional Hub",
+  title: "PKBETPRO - Professional Hub",
   description: "Advanced football betting platform with real-time odds and analytics",
 };
 

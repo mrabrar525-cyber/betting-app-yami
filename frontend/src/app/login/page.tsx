@@ -179,7 +179,7 @@ export default function LoginPage() {
         >
           <div className="space-y-4">
             <h1 className="text-5xl lg:text-6xl font-bold bg-gradient-to-r from-yellow-400 to-orange-500 bg-clip-text text-transparent">
-              Yami Betting
+              PKBETPRO
             </h1>
             <p className="text-xl text-gray-300 leading-relaxed">
               Professional sports betting platform with real-time odds, live match data, and advanced analytics.
