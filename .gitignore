@@ -149,3 +149,4 @@ logs/*.log
 # API keys and secrets (already in env files but double check)
 config/keys.js
 config/production.json 
+mongodb-data/
